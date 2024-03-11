@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93776157217",
+    "project_id": "dls-kits-24",
+    "storage_bucket": "dls-kits-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93776157217:android:a80b392cad1950e3652160",
+        "android_client_info": {
+          "package_name": "com.sakibpro.dreamkit24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm00ofBDboN2vXj96L3y3hntHVt69ZeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
